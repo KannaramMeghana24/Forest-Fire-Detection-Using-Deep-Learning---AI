@@ -67,5 +67,5 @@ Model accuracy and loss graphs are generated after training.
 Predictions include confidence scores for fire detection.
 
 
-Contributions are welcome! Feel free to submit a pull request.
+
 
