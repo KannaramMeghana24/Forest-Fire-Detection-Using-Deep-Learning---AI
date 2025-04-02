@@ -69,6 +69,3 @@ Predictions include confidence scores for fire detection.
 
 Contributions are welcome! Feel free to submit a pull request.
 
-License
-
-This project is licensed under the MIT License.
